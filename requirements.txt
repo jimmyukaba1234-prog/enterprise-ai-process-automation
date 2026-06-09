@@ -9,3 +9,4 @@ Faker==40.13.0
 scikit-learn==1.8.0
 faiss-cpu==1.14.2
 openai>=1.0.0
+sentence-transformers

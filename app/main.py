@@ -1,11 +1,16 @@
 import streamlit as st
 
-from app.pages.customer_operations import render_customer_operations
-from app.pages.hr_automation import render_hr_automation
-from app.pages.devsecops_monitoring import render_devsecops_monitoring
-from app.pages.executive_dashboard import render_executive_dashboard
+#from app.pages.customer_operations import render_customer_operations
+#from app.pages.hr_automation import render_hr_automation
+#from app.pages.devsecops_monitoring import render_devsecops_monitoring
+#from app.pages.executive_dashboard import render_executive_dashboard
 #from app.chatbot.chat_interface import render_chat_interface
 
+
+from pages.customer_operations import render_customer_operations
+from pages.hr_automation import render_hr_automation
+from pages.devsecops_monitoring import render_devsecops_monitoring
+from pages.executive_dashboard import render_executive_dashboard
 
 st.set_page_config(
     page_title="Waya AI Process Automation",

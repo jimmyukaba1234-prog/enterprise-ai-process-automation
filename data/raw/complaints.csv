@@ -1,0 +1,251 @@
+complaint_id,customer_id,complaint_text,category,assigned_department,priority,sentiment,channel,created_at
+CMP-00001,CUST-0028,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Neutral,Web App,2026-05-21 10:40:45.703909
+CMP-00002,CUST-0066,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Neutral,WhatsApp,2026-04-28 10:40:45.704131
+CMP-00003,CUST-0115,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,Mobile App,2026-05-15 10:40:45.704231
+CMP-00004,CUST-0059,I cannot see my transaction history.,App Bug,Technical Support,High,Positive,Mobile App,2026-05-24 10:40:45.704316
+CMP-00005,CUST-0021,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Positive,Chatbot,2026-05-17 10:40:45.704398
+CMP-00006,CUST-0044,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Chatbot,2026-05-14 10:40:45.704477
+CMP-00007,CUST-0004,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Positive,Mobile App,2026-05-21 10:40:45.704552
+CMP-00008,CUST-0099,The app keeps crashing.,App Bug,Technical Support,High,Positive,WhatsApp,2026-05-18 10:40:45.704627
+CMP-00009,CUST-0080,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-05-13 10:40:45.704708
+CMP-00010,CUST-0094,My account was charged two times.,Double Debit,Finance Operations,High,Negative,Web App,2026-05-16 10:40:45.704785
+CMP-00011,CUST-0100,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-26 10:40:45.704859
+CMP-00012,CUST-0034,I need help with duplicate debit.,Double Debit,Finance Operations,High,Positive,WhatsApp,2026-05-24 10:40:45.704936
+CMP-00013,CUST-0090,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Positive,Chatbot,2026-05-09 10:40:45.705022
+CMP-00014,CUST-0107,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,WhatsApp,2026-04-30 10:40:45.705170
+CMP-00015,CUST-0019,I cannot see my transaction history.,App Bug,Technical Support,High,Negative,Web App,2026-05-15 10:40:45.705268
+CMP-00016,CUST-0047,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-08 10:40:45.705347
+CMP-00017,CUST-0076,My account was charged two times.,Double Debit,Finance Operations,High,Positive,WhatsApp,2026-05-01 10:40:45.705422
+CMP-00018,CUST-0041,The app keeps crashing.,App Bug,Technical Support,High,Neutral,Mobile App,2026-05-02 10:40:45.705546
+CMP-00019,CUST-0076,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Positive,Chatbot,2026-05-10 10:40:45.705630
+CMP-00020,CUST-0117,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,Mobile App,2026-04-26 10:40:45.705706
+CMP-00021,CUST-0088,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,Chatbot,2026-05-06 10:40:45.705780
+CMP-00022,CUST-0107,I need help with duplicate debit.,Double Debit,Finance Operations,High,Positive,Mobile App,2026-05-25 10:40:45.705853
+CMP-00023,CUST-0081,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Positive,WhatsApp,2026-05-24 10:40:45.705925
+CMP-00024,CUST-0102,I cannot log into my account.,Login Issue,Technical Support,Medium,Negative,Web App,2026-05-04 10:40:45.706000
+CMP-00025,CUST-0116,I cannot see my transaction history.,App Bug,Technical Support,High,Neutral,Mobile App,2026-05-16 10:40:45.706076
+CMP-00026,CUST-0014,The app keeps crashing.,App Bug,Technical Support,High,Neutral,Web App,2026-05-12 10:40:45.706151
+CMP-00027,CUST-0062,I cannot see my transaction history.,App Bug,Technical Support,High,Positive,Chatbot,2026-05-10 10:40:45.706229
+CMP-00028,CUST-0001,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Positive,Mobile App,2026-05-23 10:40:45.706304
+CMP-00029,CUST-0115,The app keeps crashing.,App Bug,Technical Support,High,Positive,WhatsApp,2026-04-26 10:40:45.706419
+CMP-00030,CUST-0100,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Positive,WhatsApp,2026-05-08 10:40:45.706638
+CMP-00031,CUST-0057,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Neutral,WhatsApp,2026-05-03 10:40:45.706802
+CMP-00032,CUST-0001,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Positive,Web App,2026-04-28 10:40:45.706950
+CMP-00033,CUST-0014,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Negative,Web App,2026-05-09 10:40:45.707088
+CMP-00034,CUST-0070,The app keeps crashing.,App Bug,Technical Support,High,Positive,Web App,2026-05-06 10:40:45.707234
+CMP-00035,CUST-0063,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Positive,Mobile App,2026-04-26 10:40:45.707395
+CMP-00036,CUST-0069,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,Chatbot,2026-05-13 10:40:45.707560
+CMP-00037,CUST-0029,The app keeps crashing.,App Bug,Technical Support,High,Neutral,Chatbot,2026-05-25 10:40:45.707716
+CMP-00038,CUST-0103,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Positive,Web App,2026-05-19 10:40:45.707896
+CMP-00039,CUST-0029,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Negative,Chatbot,2026-05-04 10:40:45.708034
+CMP-00040,CUST-0066,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,WhatsApp,2026-05-13 10:40:45.708127
+CMP-00041,CUST-0033,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,Mobile App,2026-05-25 10:40:45.708204
+CMP-00042,CUST-0017,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,Mobile App,2026-05-07 10:40:45.708281
+CMP-00043,CUST-0076,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Negative,Mobile App,2026-05-21 10:40:45.708355
+CMP-00044,CUST-0078,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Positive,WhatsApp,2026-05-11 10:40:45.708428
+CMP-00045,CUST-0023,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-10 10:40:45.708501
+CMP-00046,CUST-0028,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Chatbot,2026-04-28 10:40:45.708573
+CMP-00047,CUST-0074,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Mobile App,2026-05-02 10:40:45.708645
+CMP-00048,CUST-0081,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-05-14 10:40:45.708719
+CMP-00049,CUST-0061,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Neutral,Mobile App,2026-05-05 10:40:45.708792
+CMP-00050,CUST-0044,I cannot log into my account.,Login Issue,Technical Support,Medium,Neutral,Mobile App,2026-05-09 10:40:45.708865
+CMP-00051,CUST-0003,There is suspicious activity on my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Chatbot,2026-04-27 10:40:45.708940
+CMP-00052,CUST-0048,The dashboard is not loading.,App Bug,Technical Support,High,Negative,WhatsApp,2026-05-19 10:40:45.709014
+CMP-00053,CUST-0082,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,Chatbot,2026-05-08 10:40:45.709089
+CMP-00054,CUST-0011,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-01 10:40:45.709162
+CMP-00055,CUST-0007,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Chatbot,2026-05-26 10:40:45.709234
+CMP-00056,CUST-0117,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Neutral,WhatsApp,2026-05-26 10:40:45.709308
+CMP-00057,CUST-0074,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Neutral,Web App,2026-04-27 10:40:45.709380
+CMP-00058,CUST-0117,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,Chatbot,2026-05-11 10:40:45.709457
+CMP-00059,CUST-0059,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Chatbot,2026-05-17 10:40:45.709530
+CMP-00060,CUST-0112,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Neutral,Chatbot,2026-05-19 10:40:45.709601
+CMP-00061,CUST-0106,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Positive,WhatsApp,2026-04-26 10:40:45.709672
+CMP-00062,CUST-0085,The app keeps crashing.,App Bug,Technical Support,High,Negative,Mobile App,2026-04-30 10:40:45.709745
+CMP-00063,CUST-0081,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Negative,WhatsApp,2026-05-05 10:40:45.709817
+CMP-00064,CUST-0064,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Positive,Chatbot,2026-04-29 10:40:45.709888
+CMP-00065,CUST-0097,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Negative,Web App,2026-05-11 10:40:45.709972
+CMP-00066,CUST-0072,My account was charged two times.,Double Debit,Finance Operations,High,Neutral,WhatsApp,2026-05-09 10:40:45.710181
+CMP-00067,CUST-0042,How do I update my phone number?,General Inquiry,Customer Operations,Low,Positive,Mobile App,2026-05-03 10:40:45.710329
+CMP-00068,CUST-0120,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Chatbot,2026-05-02 10:40:45.710489
+CMP-00069,CUST-0069,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Positive,Chatbot,2026-05-05 10:40:45.710638
+CMP-00070,CUST-0034,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Neutral,Mobile App,2026-05-16 10:40:45.710790
+CMP-00071,CUST-0084,How do I update my phone number?,General Inquiry,Customer Operations,Low,Positive,Web App,2026-05-05 10:40:45.710945
+CMP-00072,CUST-0115,The app keeps crashing.,App Bug,Technical Support,High,Negative,Web App,2026-05-25 10:40:45.711101
+CMP-00073,CUST-0053,I need help with duplicate debit.,Double Debit,Finance Operations,High,Positive,WhatsApp,2026-05-12 10:40:45.711259
+CMP-00074,CUST-0116,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Positive,WhatsApp,2026-05-03 10:40:45.711412
+CMP-00075,CUST-0119,I want to block my card.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-04-30 10:40:45.711567
+CMP-00076,CUST-0046,I cannot log into my account.,Login Issue,Technical Support,Medium,Negative,Web App,2026-05-01 10:40:45.711719
+CMP-00077,CUST-0024,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-05-15 10:40:45.711877
+CMP-00078,CUST-0082,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,WhatsApp,2026-05-21 10:40:45.712057
+CMP-00079,CUST-0015,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-09 10:40:45.712210
+CMP-00080,CUST-0082,I need help with duplicate debit.,Double Debit,Finance Operations,High,Negative,Web App,2026-05-14 10:40:45.712363
+CMP-00081,CUST-0048,How do I update my phone number?,General Inquiry,Customer Operations,Low,Negative,WhatsApp,2026-05-07 10:40:45.712501
+CMP-00082,CUST-0100,The dashboard is not loading.,App Bug,Technical Support,High,Positive,Mobile App,2026-05-19 10:40:45.712636
+CMP-00083,CUST-0074,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Positive,WhatsApp,2026-05-19 10:40:45.712777
+CMP-00084,CUST-0014,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,Mobile App,2026-05-17 10:40:45.712913
+CMP-00085,CUST-0098,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Negative,Web App,2026-05-07 10:40:45.713056
+CMP-00086,CUST-0116,There is suspicious activity on my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-17 10:40:45.713198
+CMP-00087,CUST-0086,I cannot log into my account.,Login Issue,Technical Support,Medium,Neutral,Chatbot,2026-05-24 10:40:45.713338
+CMP-00088,CUST-0078,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Mobile App,2026-05-12 10:40:45.713488
+CMP-00089,CUST-0051,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Web App,2026-05-02 10:40:45.713649
+CMP-00090,CUST-0118,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,Web App,2026-05-25 10:40:45.713793
+CMP-00091,CUST-0062,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Neutral,Chatbot,2026-05-20 10:40:45.713915
+CMP-00092,CUST-0035,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Chatbot,2026-05-03 10:40:45.714080
+CMP-00093,CUST-0047,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-19 10:40:45.714237
+CMP-00094,CUST-0040,The dashboard is not loading.,App Bug,Technical Support,High,Negative,Chatbot,2026-04-30 10:40:45.714369
+CMP-00095,CUST-0009,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Neutral,WhatsApp,2026-05-22 10:40:45.714499
+CMP-00096,CUST-0012,The app keeps crashing.,App Bug,Technical Support,High,Positive,Mobile App,2026-04-29 10:40:45.714626
+CMP-00097,CUST-0055,My account was charged two times.,Double Debit,Finance Operations,High,Positive,WhatsApp,2026-05-23 10:40:45.714752
+CMP-00098,CUST-0023,My card is not working.,Card Issue,Customer Operations,Medium,Positive,Web App,2026-05-25 10:40:45.714876
+CMP-00099,CUST-0032,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,WhatsApp,2026-05-25 10:40:45.714997
+CMP-00100,CUST-0062,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Mobile App,2026-05-03 10:40:45.715138
+CMP-00101,CUST-0078,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Negative,Web App,2026-04-27 10:40:45.715280
+CMP-00102,CUST-0020,My account was charged two times.,Double Debit,Finance Operations,High,Positive,Chatbot,2026-05-09 10:40:45.715434
+CMP-00103,CUST-0047,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Positive,WhatsApp,2026-05-05 10:40:45.715562
+CMP-00104,CUST-0004,The dashboard is not loading.,App Bug,Technical Support,High,Positive,Chatbot,2026-05-05 10:40:45.715683
+CMP-00105,CUST-0033,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Neutral,Web App,2026-05-17 10:40:45.715807
+CMP-00106,CUST-0038,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Neutral,WhatsApp,2026-05-20 10:40:45.715928
+CMP-00107,CUST-0058,My account was charged two times.,Double Debit,Finance Operations,High,Positive,Chatbot,2026-05-01 10:40:45.716051
+CMP-00108,CUST-0100,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-05-18 10:40:45.716177
+CMP-00109,CUST-0048,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,Mobile App,2026-05-26 10:40:45.716293
+CMP-00110,CUST-0009,I cannot log into my account.,Login Issue,Technical Support,Medium,Negative,Mobile App,2026-05-16 10:40:45.716433
+CMP-00111,CUST-0029,There is suspicious activity on my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-07 10:40:45.716564
+CMP-00112,CUST-0068,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Negative,Web App,2026-05-09 10:40:45.716676
+CMP-00113,CUST-0010,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,Mobile App,2026-05-01 10:40:45.716813
+CMP-00114,CUST-0071,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Negative,Web App,2026-05-08 10:40:45.716900
+CMP-00115,CUST-0034,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Positive,Chatbot,2026-05-14 10:40:45.716992
+CMP-00116,CUST-0114,My card is not working.,Card Issue,Customer Operations,Medium,Negative,Chatbot,2026-05-21 10:40:45.717073
+CMP-00117,CUST-0102,I cannot see my transaction history.,App Bug,Technical Support,High,Neutral,Mobile App,2026-04-28 10:40:45.717154
+CMP-00118,CUST-0090,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Neutral,Mobile App,2026-05-25 10:40:45.717235
+CMP-00119,CUST-0090,I need help with duplicate debit.,Double Debit,Finance Operations,High,Neutral,Web App,2026-04-26 10:40:45.717318
+CMP-00120,CUST-0081,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Positive,WhatsApp,2026-05-22 10:40:45.717399
+CMP-00121,CUST-0013,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Chatbot,2026-05-24 10:40:45.717485
+CMP-00122,CUST-0017,I cannot log into my account.,Login Issue,Technical Support,Medium,Neutral,WhatsApp,2026-05-23 10:40:45.717566
+CMP-00123,CUST-0048,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Chatbot,2026-04-28 10:40:45.717645
+CMP-00124,CUST-0028,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Neutral,Web App,2026-05-11 10:40:45.717724
+CMP-00125,CUST-0016,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Negative,Web App,2026-05-25 10:40:45.717803
+CMP-00126,CUST-0011,I cannot see my transaction history.,App Bug,Technical Support,High,Positive,Mobile App,2026-05-11 10:40:45.717882
+CMP-00127,CUST-0054,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,Web App,2026-05-01 10:40:45.717960
+CMP-00128,CUST-0052,My account was charged two times.,Double Debit,Finance Operations,High,Negative,WhatsApp,2026-05-18 10:40:45.718042
+CMP-00129,CUST-0059,I want to block my card.,Card Issue,Customer Operations,Medium,Neutral,WhatsApp,2026-05-26 10:40:45.718122
+CMP-00130,CUST-0113,My account was charged two times.,Double Debit,Finance Operations,High,Negative,WhatsApp,2026-05-05 10:40:45.718202
+CMP-00131,CUST-0061,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Positive,WhatsApp,2026-05-18 10:40:45.718281
+CMP-00132,CUST-0100,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Neutral,Chatbot,2026-04-30 10:40:45.718360
+CMP-00133,CUST-0003,I cannot see my transaction history.,App Bug,Technical Support,High,Negative,Web App,2026-05-23 10:40:45.718439
+CMP-00134,CUST-0063,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Negative,Chatbot,2026-05-07 10:40:45.718517
+CMP-00135,CUST-0069,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-22 10:40:45.718596
+CMP-00136,CUST-0072,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Negative,WhatsApp,2026-05-12 10:40:45.718675
+CMP-00137,CUST-0100,I cannot see my transaction history.,App Bug,Technical Support,High,Positive,Web App,2026-05-13 10:40:45.718755
+CMP-00138,CUST-0043,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Neutral,Mobile App,2026-05-25 10:40:45.718834
+CMP-00139,CUST-0030,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Negative,Web App,2026-04-26 10:40:45.718914
+CMP-00140,CUST-0061,I want to block my card.,Card Issue,Customer Operations,Medium,Positive,Web App,2026-05-09 10:40:45.718993
+CMP-00141,CUST-0117,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Negative,Chatbot,2026-05-10 10:40:45.719072
+CMP-00142,CUST-0053,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Web App,2026-05-04 10:40:45.719184
+CMP-00143,CUST-0086,The app keeps crashing.,App Bug,Technical Support,High,Neutral,Chatbot,2026-05-14 10:40:45.719268
+CMP-00144,CUST-0013,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Mobile App,2026-05-05 10:40:45.719349
+CMP-00145,CUST-0014,My account was charged two times.,Double Debit,Finance Operations,High,Neutral,Chatbot,2026-05-17 10:40:45.719430
+CMP-00146,CUST-0038,How do I update my phone number?,General Inquiry,Customer Operations,Low,Negative,Mobile App,2026-05-10 10:40:45.719511
+CMP-00147,CUST-0058,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Negative,WhatsApp,2026-05-10 10:40:45.719592
+CMP-00148,CUST-0076,My account was charged two times.,Double Debit,Finance Operations,High,Negative,Web App,2026-05-22 10:40:45.719676
+CMP-00149,CUST-0023,The dashboard is not loading.,App Bug,Technical Support,High,Neutral,WhatsApp,2026-05-25 10:40:45.719757
+CMP-00150,CUST-0059,My account was charged two times.,Double Debit,Finance Operations,High,Positive,Mobile App,2026-05-13 10:40:45.719927
+CMP-00151,CUST-0050,The app keeps crashing.,App Bug,Technical Support,High,Positive,Web App,2026-05-22 10:40:45.720096
+CMP-00152,CUST-0061,I need help with duplicate debit.,Double Debit,Finance Operations,High,Positive,WhatsApp,2026-05-09 10:40:45.720252
+CMP-00153,CUST-0088,I need help with duplicate debit.,Double Debit,Finance Operations,High,Neutral,Mobile App,2026-05-06 10:40:45.720406
+CMP-00154,CUST-0022,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Negative,Mobile App,2026-05-08 10:40:45.720553
+CMP-00155,CUST-0061,The dashboard is not loading.,App Bug,Technical Support,High,Negative,Web App,2026-05-21 10:40:45.720688
+CMP-00156,CUST-0117,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Positive,Chatbot,2026-05-19 10:40:45.720844
+CMP-00157,CUST-0022,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Chatbot,2026-04-26 10:40:45.721002
+CMP-00158,CUST-0108,I want to block my card.,Card Issue,Customer Operations,Medium,Positive,Mobile App,2026-04-29 10:40:45.721153
+CMP-00159,CUST-0025,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Neutral,Mobile App,2026-04-27 10:40:45.721276
+CMP-00160,CUST-0092,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,Chatbot,2026-05-22 10:40:45.721394
+CMP-00161,CUST-0085,The app keeps crashing.,App Bug,Technical Support,High,Positive,Chatbot,2026-05-16 10:40:45.721506
+CMP-00162,CUST-0036,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Web App,2026-05-06 10:40:45.721633
+CMP-00163,CUST-0056,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,Mobile App,2026-05-08 10:40:45.721784
+CMP-00164,CUST-0077,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Neutral,Mobile App,2026-05-20 10:40:45.721894
+CMP-00165,CUST-0067,My card is not working.,Card Issue,Customer Operations,Medium,Positive,Chatbot,2026-05-15 10:40:45.721979
+CMP-00166,CUST-0016,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,Mobile App,2026-05-21 10:40:45.722062
+CMP-00167,CUST-0025,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,WhatsApp,2026-04-28 10:40:45.722222
+CMP-00168,CUST-0027,How do I update my phone number?,General Inquiry,Customer Operations,Low,Negative,Web App,2026-05-26 10:40:45.722392
+CMP-00169,CUST-0019,My card is not working.,Card Issue,Customer Operations,Medium,Negative,Chatbot,2026-05-13 10:40:45.722547
+CMP-00170,CUST-0105,The app keeps crashing.,App Bug,Technical Support,High,Negative,WhatsApp,2026-05-12 10:40:45.722701
+CMP-00171,CUST-0066,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Neutral,Web App,2026-05-18 10:40:45.722846
+CMP-00172,CUST-0112,I want to block my card.,Card Issue,Customer Operations,Medium,Neutral,Web App,2026-05-11 10:40:45.722987
+CMP-00173,CUST-0116,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Positive,WhatsApp,2026-05-26 10:40:45.723146
+CMP-00174,CUST-0043,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Neutral,Mobile App,2026-05-15 10:40:45.723301
+CMP-00175,CUST-0079,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Positive,Chatbot,2026-05-03 10:40:45.723432
+CMP-00176,CUST-0076,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Chatbot,2026-05-11 10:40:45.723593
+CMP-00177,CUST-0021,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,WhatsApp,2026-05-25 10:40:45.723757
+CMP-00178,CUST-0016,There is suspicious activity on my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Web App,2026-05-19 10:40:45.723906
+CMP-00179,CUST-0101,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,Chatbot,2026-05-15 10:40:45.724060
+CMP-00180,CUST-0085,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Negative,WhatsApp,2026-05-15 10:40:45.724351
+CMP-00181,CUST-0097,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,WhatsApp,2026-05-09 10:40:45.724511
+CMP-00182,CUST-0032,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-05-09 10:40:45.724714
+CMP-00183,CUST-0033,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Mobile App,2026-05-23 10:40:45.724895
+CMP-00184,CUST-0060,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Negative,Chatbot,2026-05-22 10:40:45.725059
+CMP-00185,CUST-0020,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Positive,Web App,2026-05-26 10:40:45.725204
+CMP-00186,CUST-0004,I forgot my password and cannot reset it.,Login Issue,Technical Support,Medium,Neutral,Mobile App,2026-05-01 10:40:45.725365
+CMP-00187,CUST-0006,There is suspicious activity on my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Web App,2026-05-25 10:40:45.725539
+CMP-00188,CUST-0087,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Positive,Web App,2026-05-19 10:40:45.725709
+CMP-00189,CUST-0100,I need help with duplicate debit.,Double Debit,Finance Operations,High,Neutral,Web App,2026-05-12 10:40:45.726074
+CMP-00190,CUST-0019,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Neutral,Web App,2026-05-18 10:40:45.726235
+CMP-00191,CUST-0064,I want to block my card.,Card Issue,Customer Operations,Medium,Positive,Chatbot,2026-05-14 10:40:45.726417
+CMP-00192,CUST-0021,I cannot see my transaction history.,App Bug,Technical Support,High,Negative,Mobile App,2026-05-20 10:40:45.726594
+CMP-00193,CUST-0068,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Positive,WhatsApp,2026-05-19 10:40:45.726771
+CMP-00194,CUST-0088,How do I update my phone number?,General Inquiry,Customer Operations,Low,Positive,WhatsApp,2026-05-24 10:40:45.726940
+CMP-00195,CUST-0061,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-04-26 10:40:45.727111
+CMP-00196,CUST-0008,My account was charged two times.,Double Debit,Finance Operations,High,Negative,WhatsApp,2026-05-24 10:40:45.727290
+CMP-00197,CUST-0031,I transferred money but the receiver has not gotten it.,Failed Transaction,Finance Operations,High,Negative,Web App,2026-05-04 10:40:45.727484
+CMP-00198,CUST-0015,I need help with duplicate debit.,Double Debit,Finance Operations,High,Neutral,Chatbot,2026-05-03 10:40:45.727655
+CMP-00199,CUST-0093,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Neutral,WhatsApp,2026-05-04 10:40:45.727810
+CMP-00200,CUST-0108,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Neutral,Chatbot,2026-05-03 10:40:45.727957
+CMP-00201,CUST-0080,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-18 10:40:45.728108
+CMP-00202,CUST-0108,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Positive,WhatsApp,2026-05-25 10:40:45.728264
+CMP-00203,CUST-0058,The dashboard is not loading.,App Bug,Technical Support,High,Neutral,Chatbot,2026-05-03 10:40:45.728405
+CMP-00204,CUST-0029,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-04-27 10:40:45.728573
+CMP-00205,CUST-0107,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Neutral,Chatbot,2026-05-11 10:40:45.728771
+CMP-00206,CUST-0093,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-05-24 10:40:45.728971
+CMP-00207,CUST-0115,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Web App,2026-05-09 10:40:45.729171
+CMP-00208,CUST-0015,I cannot see my transaction history.,App Bug,Technical Support,High,Positive,Chatbot,2026-05-11 10:40:45.729372
+CMP-00209,CUST-0029,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Neutral,WhatsApp,2026-04-28 10:40:45.729559
+CMP-00210,CUST-0040,I need help completing my KYC.,KYC Issue,Compliance/KYC,Medium,Positive,WhatsApp,2026-05-06 10:40:45.729707
+CMP-00211,CUST-0079,I cannot log into my account.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-05-07 10:40:45.729848
+CMP-00212,CUST-0028,My uploaded ID was rejected.,KYC Issue,Compliance/KYC,Medium,Neutral,Web App,2026-05-13 10:40:45.729982
+CMP-00213,CUST-0119,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Negative,WhatsApp,2026-04-26 10:40:45.730105
+CMP-00214,CUST-0099,I noticed a transaction I did not authorize.,Fraud Alert,Fraud/Risk Team,Critical,Negative,Mobile App,2026-05-16 10:40:45.730263
+CMP-00215,CUST-0097,The dashboard is not loading.,App Bug,Technical Support,High,Neutral,WhatsApp,2026-04-26 10:40:45.730437
+CMP-00216,CUST-0053,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-05-26 10:40:45.730603
+CMP-00217,CUST-0114,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Negative,WhatsApp,2026-04-28 10:40:45.730779
+CMP-00218,CUST-0023,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Neutral,Web App,2026-04-30 10:40:45.730949
+CMP-00219,CUST-0091,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Neutral,Mobile App,2026-05-02 10:40:45.731099
+CMP-00220,CUST-0056,I cannot log into my account.,Login Issue,Technical Support,Medium,Positive,Chatbot,2026-04-27 10:40:45.731250
+CMP-00221,CUST-0035,I need help with duplicate debit.,Double Debit,Finance Operations,High,Positive,Mobile App,2026-05-12 10:40:45.731406
+CMP-00222,CUST-0119,The dashboard is not loading.,App Bug,Technical Support,High,Negative,Chatbot,2026-05-19 10:40:45.731614
+CMP-00223,CUST-0059,The transaction is pending for hours.,Failed Transaction,Finance Operations,High,Neutral,Web App,2026-05-01 10:40:45.731865
+CMP-00224,CUST-0094,I need help with duplicate debit.,Double Debit,Finance Operations,High,Neutral,Web App,2026-05-08 10:40:45.732073
+CMP-00225,CUST-0061,I want to block my card.,Card Issue,Customer Operations,Medium,Negative,Mobile App,2026-05-16 10:40:45.732690
+CMP-00226,CUST-0054,The dashboard is not loading.,App Bug,Technical Support,High,Negative,Web App,2026-05-25 10:40:45.732958
+CMP-00227,CUST-0026,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,Mobile App,2026-05-10 10:40:45.733178
+CMP-00228,CUST-0033,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,Web App,2026-05-15 10:40:45.733424
+CMP-00229,CUST-0115,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Positive,Chatbot,2026-04-27 10:40:45.733611
+CMP-00230,CUST-0070,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Neutral,Web App,2026-05-23 10:40:45.733792
+CMP-00231,CUST-0020,I cannot log into my account.,Login Issue,Technical Support,Medium,Neutral,WhatsApp,2026-05-19 10:40:45.733998
+CMP-00232,CUST-0097,My transfer failed but I was debited.,Failed Transaction,Finance Operations,High,Negative,Web App,2026-05-01 10:40:45.734179
+CMP-00233,CUST-0023,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Neutral,Web App,2026-05-25 10:40:45.734338
+CMP-00234,CUST-0060,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Neutral,Mobile App,2026-04-29 10:40:45.734491
+CMP-00235,CUST-0095,The app keeps saying invalid login.,Login Issue,Technical Support,Medium,Negative,Chatbot,2026-05-15 10:40:45.734664
+CMP-00236,CUST-0092,Someone accessed my account.,Fraud Alert,Fraud/Risk Team,Critical,Positive,Mobile App,2026-05-10 10:40:45.734884
+CMP-00237,CUST-0030,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,WhatsApp,2026-05-13 10:40:45.735065
+CMP-00238,CUST-0038,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Negative,Chatbot,2026-05-10 10:40:45.735224
+CMP-00239,CUST-0037,I cannot log into my account.,Login Issue,Technical Support,Medium,Negative,WhatsApp,2026-05-20 10:40:45.735372
+CMP-00240,CUST-0037,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,WhatsApp,2026-04-28 10:40:45.735517
+CMP-00241,CUST-0062,How can I upgrade my account?,General Inquiry,Customer Operations,Low,Positive,Mobile App,2026-04-26 10:40:45.735662
+CMP-00242,CUST-0013,My card is not working.,Card Issue,Customer Operations,Medium,Neutral,WhatsApp,2026-05-08 10:40:45.735814
+CMP-00243,CUST-0066,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Negative,Web App,2026-05-07 10:40:45.735953
+CMP-00244,CUST-0055,My ATM card transaction failed.,Card Issue,Customer Operations,Medium,Neutral,Chatbot,2026-05-24 10:40:45.736097
+CMP-00245,CUST-0053,My KYC verification is still pending.,KYC Issue,Compliance/KYC,Medium,Neutral,Web App,2026-04-26 10:40:45.736249
+CMP-00246,CUST-0082,I want to block my card.,Card Issue,Customer Operations,Medium,Neutral,Mobile App,2026-05-17 10:40:45.736423
+CMP-00247,CUST-0097,How do I update my phone number?,General Inquiry,Customer Operations,Low,Neutral,WhatsApp,2026-05-08 10:40:45.736588
+CMP-00248,CUST-0084,I was debited twice for one transaction.,Double Debit,Finance Operations,High,Neutral,Mobile App,2026-05-17 10:40:45.736748
+CMP-00249,CUST-0018,My account was charged two times.,Double Debit,Finance Operations,High,Neutral,Chatbot,2026-04-26 10:40:45.736906
+CMP-00250,CUST-0016,Where can I find my account statement?,General Inquiry,Customer Operations,Low,Neutral,Web App,2026-05-21 10:40:45.737072

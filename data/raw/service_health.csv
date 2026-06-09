@@ -1,0 +1,6 @@
+service_name,status,uptime_percentage,avg_response_time_ms,error_rate_percentage,last_checked
+Auth API,Degraded,96.26,505,4.7,2026-05-26 10:40:46.261982
+Payment Service,Degraded,99.16,534,1.9,2026-05-26 10:40:46.262007
+Customer API,Down,96.57,517,2.01,2026-05-26 10:40:46.262027
+KYC Service,Degraded,96.57,261,5.09,2026-05-26 10:40:46.262049
+Notification Service,Down,96.18,360,7.23,2026-05-26 10:40:46.262073

@@ -1,0 +1,61 @@
+candidate_id,full_name,role_applied,experience_years,skills_match_score,skills,ai_rank,status,created_at
+CAND-0001,Karen Guerra,Product Manager,5,89,"Jira, Roadmapping, Agile",Moderate Match,Interview Scheduled,2026-05-22 06:26:19.522730
+CAND-0002,Ashley Smith,Backend Engineer,3,92,"Docker, PostgreSQL, REST API",Moderate Match,Interview Scheduled,2026-05-20 06:26:19.523244
+CAND-0003,Rachael Bowman,Backend Engineer,8,98,"Django, PostgreSQL, REST API",Weak Match,Rejected,2026-05-07 06:26:19.523751
+CAND-0004,Pamela Willis,Data Analyst,6,92,"SQL, Python, Excel",Moderate Match,Rejected,2026-05-10 06:26:19.524071
+CAND-0005,John Sanders,Product Manager,2,73,"Jira, Roadmapping, Agile",Moderate Match,Shortlisted,2026-05-20 06:26:19.524648
+CAND-0006,Jennifer Christensen,Data Analyst,2,76,"SQL, Tableau, Data Cleaning",Weak Match,Interview Scheduled,2026-05-01 06:26:19.525150
+CAND-0007,Steven Warren,Product Manager,7,75,"Roadmapping, Jira, Agile",Moderate Match,Applied,2026-05-06 06:26:19.525646
+CAND-0008,William Anderson,Product Manager,6,98,"Roadmapping, Jira, Stakeholder Management",Strong Match,Interview Scheduled,2026-05-02 06:26:19.526088
+CAND-0009,Terry Norris,Customer Support Officer,2,50,"CRM, Customer Resolution, Ticketing",Moderate Match,Applied,2026-05-08 06:26:19.526487
+CAND-0010,Joseph Bryant,Product Manager,4,57,"Roadmapping, Jira, User Research",Weak Match,Hired,2026-05-04 06:26:19.526711
+CAND-0011,Ashley Davila,Product Manager,8,72,"Agile, User Research, Roadmapping",Moderate Match,Applied,2026-04-30 06:26:19.526916
+CAND-0012,George Bowman,Product Manager,1,59,"Stakeholder Management, Roadmapping, Jira",Weak Match,Hired,2026-05-21 06:26:19.527107
+CAND-0013,Melissa Maldonado,Data Analyst,5,50,"Python, Tableau, Excel",Weak Match,Rejected,2026-04-27 06:26:19.527298
+CAND-0014,Alyssa Bailey,DevOps Engineer,5,64,"GitHub Actions, Kubernetes, Linux",Moderate Match,Rejected,2026-05-16 06:26:19.527501
+CAND-0015,Anthony Castaneda,Backend Engineer,7,83,"PostgreSQL, FastAPI, Docker",Moderate Match,Hired,2026-05-08 06:26:19.528255
+CAND-0016,Joseph Wagner,Backend Engineer,2,62,"Django, REST API, FastAPI",Moderate Match,Rejected,2026-04-30 06:26:19.528757
+CAND-0017,Margaret Marshall,Product Manager,3,85,"Jira, User Research, Roadmapping",Weak Match,Rejected,2026-05-01 06:26:19.529202
+CAND-0018,Thomas Reyes,Backend Engineer,8,86,"FastAPI, REST API, PostgreSQL",Strong Match,Hired,2026-05-19 06:26:19.529653
+CAND-0019,Wesley Brown,Product Manager,5,54,"Roadmapping, Stakeholder Management, User Research",Weak Match,Applied,2026-04-28 06:26:19.530127
+CAND-0020,Michael Williams,DevOps Engineer,4,60,"CI/CD, Docker, Cloud Monitoring",Moderate Match,Interview Scheduled,2026-05-01 06:26:19.530632
+CAND-0021,Catherine Bailey,Data Analyst,3,69,"Excel, Data Cleaning, SQL",Strong Match,Shortlisted,2026-05-17 06:26:19.530906
+CAND-0022,Derek Mason,Backend Engineer,3,48,"Django, Docker, PostgreSQL",Strong Match,Rejected,2026-04-28 06:26:19.531127
+CAND-0023,Crystal Lopez,Data Analyst,1,90,"Data Cleaning, Excel, Python",Strong Match,Shortlisted,2026-05-01 06:26:19.531352
+CAND-0024,Michele Charles,DevOps Engineer,8,76,"Docker, Linux, GitHub Actions",Weak Match,Interview Scheduled,2026-05-10 06:26:19.531552
+CAND-0025,James Tyler,Data Analyst,4,54,"Power BI, Excel, SQL",Moderate Match,Interview Scheduled,2026-05-17 06:26:19.531746
+CAND-0026,Brittany Rogers,Backend Engineer,5,63,"REST API, Docker, PostgreSQL",Moderate Match,Interview Scheduled,2026-05-11 06:26:19.531941
+CAND-0027,Melissa Rodriguez,DevOps Engineer,3,92,"GitHub Actions, Docker, Cloud Monitoring",Moderate Match,Applied,2026-05-13 06:26:19.532140
+CAND-0028,Ronald Griffin,Product Manager,2,73,"Jira, Roadmapping, Agile",Weak Match,Interview Scheduled,2026-05-05 06:26:19.532331
+CAND-0029,William Johnson,Data Analyst,3,89,"Excel, Tableau, SQL",Moderate Match,Interview Scheduled,2026-05-11 06:26:19.532521
+CAND-0030,Dr. Kristy Rogers MD,DevOps Engineer,2,90,"Docker, Cloud Monitoring, Linux",Strong Match,Rejected,2026-05-09 06:26:19.532741
+CAND-0031,Michelle Osborne,Backend Engineer,4,47,"Django, PostgreSQL, Docker",Strong Match,Hired,2026-05-24 06:26:19.532940
+CAND-0032,Eric Sanchez,Product Manager,4,70,"Agile, User Research, Stakeholder Management",Moderate Match,Hired,2026-04-30 06:26:19.533131
+CAND-0033,Amanda Mckinney,Backend Engineer,1,78,"Python, REST API, Docker",Strong Match,Hired,2026-05-12 06:26:19.533323
+CAND-0034,Darrell Montgomery,Customer Support Officer,6,82,"Customer Resolution, Communication, CRM",Weak Match,Interview Scheduled,2026-05-02 06:26:19.533512
+CAND-0035,Tracy Collins MD,Customer Support Officer,2,48,"Communication, Ticketing, CRM",Weak Match,Hired,2026-05-10 06:26:19.533718
+CAND-0036,Kathryn Frye,DevOps Engineer,5,62,"Docker, GitHub Actions, Linux",Strong Match,Hired,2026-05-07 06:26:19.533912
+CAND-0037,Joyce Martinez,Backend Engineer,1,87,"Python, PostgreSQL, Docker",Moderate Match,Interview Scheduled,2026-05-16 06:26:19.534094
+CAND-0038,Stephanie Jimenez,Customer Support Officer,6,57,"CRM, Communication, Customer Resolution",Strong Match,Applied,2026-05-07 06:26:19.534273
+CAND-0039,Richard Ruiz,Backend Engineer,1,54,"PostgreSQL, Docker, REST API",Strong Match,Hired,2026-05-08 06:26:19.534451
+CAND-0040,Michael Potter,DevOps Engineer,8,89,"Docker, Cloud Monitoring, CI/CD",Moderate Match,Hired,2026-05-10 06:26:19.534627
+CAND-0041,James Wood,Data Analyst,3,60,"Data Cleaning, SQL, Excel",Weak Match,Shortlisted,2026-05-12 06:26:19.534804
+CAND-0042,Tina Brown,Product Manager,3,91,"User Research, Stakeholder Management, Jira",Weak Match,Shortlisted,2026-05-23 06:26:19.534984
+CAND-0043,Amy Cummings,Product Manager,6,89,"User Research, Agile, Stakeholder Management",Strong Match,Hired,2026-05-08 06:26:19.535162
+CAND-0044,Candace Golden,Data Analyst,8,67,"SQL, Excel, Power BI",Weak Match,Applied,2026-05-06 06:26:19.535340
+CAND-0045,Eric Cooper,Backend Engineer,1,92,"REST API, FastAPI, Docker",Moderate Match,Applied,2026-05-07 06:26:19.535514
+CAND-0046,Erika Johnson,Data Analyst,3,47,"Power BI, SQL, Data Cleaning",Strong Match,Hired,2026-05-02 06:26:19.535698
+CAND-0047,Julie Johnson,DevOps Engineer,5,47,"Cloud Monitoring, Kubernetes, Linux",Weak Match,Shortlisted,2026-05-26 06:26:19.535878
+CAND-0048,Christine Davis,DevOps Engineer,3,58,"GitHub Actions, Docker, Linux",Moderate Match,Rejected,2026-05-20 06:26:19.536058
+CAND-0049,Michelle Brooks,Backend Engineer,2,51,"Django, PostgreSQL, FastAPI",Strong Match,Shortlisted,2026-05-22 06:26:19.536392
+CAND-0050,Alejandro Anderson,DevOps Engineer,6,72,"Docker, Kubernetes, GitHub Actions",Moderate Match,Hired,2026-05-12 06:26:19.536890
+CAND-0051,Eric Schultz,Data Analyst,6,85,"Power BI, Tableau, Excel",Weak Match,Applied,2026-05-03 06:26:19.537355
+CAND-0052,Nathaniel Rodriguez,Product Manager,4,70,"Stakeholder Management, User Research, Roadmapping",Strong Match,Applied,2026-05-05 06:26:19.537700
+CAND-0053,Angela Walker,Data Analyst,8,53,"Tableau, Power BI, Data Cleaning",Moderate Match,Shortlisted,2026-04-30 06:26:19.537927
+CAND-0054,Tiffany Flynn,DevOps Engineer,7,60,"CI/CD, Cloud Monitoring, GitHub Actions",Weak Match,Shortlisted,2026-05-08 06:26:19.538142
+CAND-0055,Laura Crane,Product Manager,1,87,"Roadmapping, Stakeholder Management, Agile",Strong Match,Hired,2026-05-11 06:26:19.538337
+CAND-0056,Brian Saunders,Product Manager,8,57,"Agile, Roadmapping, Jira",Strong Match,Interview Scheduled,2026-05-02 06:26:19.538522
+CAND-0057,Nicholas Johnson,DevOps Engineer,2,45,"Docker, GitHub Actions, Linux",Strong Match,Hired,2026-05-22 06:26:19.538712
+CAND-0058,Christina Berg,Customer Support Officer,8,93,"Customer Resolution, Ticketing, CRM",Weak Match,Rejected,2026-05-05 06:26:19.538970
+CAND-0059,Debra Bates,Product Manager,7,53,"Stakeholder Management, User Research, Roadmapping",Weak Match,Interview Scheduled,2026-04-28 06:26:19.539269
+CAND-0060,Joan Mitchell,Product Manager,1,59,"Stakeholder Management, Roadmapping, Agile",Strong Match,Interview Scheduled,2026-05-25 06:26:19.539767

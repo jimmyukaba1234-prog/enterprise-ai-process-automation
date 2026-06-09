@@ -1,0 +1,164 @@
+app/
+├── intelligent_chatbot_app.py          # Streamlit UI for V2 agent
+│
+├── chatbot_v2/
+│   ├── __init__.py
+│   ├── agent.py                       # main AI customer service agent
+│   ├── model_client.py                # Gemini connection
+│   ├── conversation_manager.py        # stores conversation state
+│   ├── intent_engine.py               # LLM-based intent detection
+│   ├── knowledge_retriever.py         # RAG search over markdown KB docs
+│   ├── embedding_service.py           # creates/searches document embeddings
+│   ├── api_orchestrator.py            # decides which simulated API to call
+│   ├── resolution_engine.py           # resolves, asks follow-up, or escalates
+│   ├── escalation_builder.py          # creates escalation summary
+│   ├── ticket_writer.py               # writes tickets to existing CSV/dashboard
+│   └── schemas.py                     # standard response format
+│
+├── simulated_apis/
+│   ├── __init__.py
+│   ├── customer_api.py                # simulated customer lookup
+│   ├── card_api.py                    # simulated card system
+│   └── transaction_api.py             # simulated transaction system
+│
+├── data/
+│   ├── knowledge_base/
+│   │   ├── customer_verification_policy.md
+│   │   ├── failed_transfer_sop.md
+│   │   ├── double_debit_policy.md
+│   │   ├── pending_reversal_sop.md
+│   │   ├── wrong_beneficiary_policy.md
+│   │   ├── unauthorized_transaction_policy.md
+│   │   ├── chargeback_policy.md
+│   │   ├── card_blocking_policy.md
+│   │   ├── kyc_support_policy.md
+│   │   ├── complaint_escalation_policy.md
+│   │   └── branch_support_information.md
+│   │
+│   ├── vector_store/
+│   │   ├── kb_chunks.json             # chunked markdown content
+│   │   ├── kb_embeddings.pkl          # stored embeddings
+│   │   └── kb_index.faiss             # optional FAISS index
+│   │
+│   └── raw/
+│       ├── live_tickets.csv           # existing dashboard input
+│       └── live_chatbot_logs.csv      # existing dashboard input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+waya-ai-process-automation-demo/
+│
+├── README.md
+├── requirements.txt
+├── .env
+├── .gitignore
+│
+├── data/
+│   │
+│   ├── raw/
+│   │   ├── customers.csv
+│   │   ├── complaints.csv
+│   │   ├── tickets.csv
+│   │   ├── chatbot_logs.csv
+│   │   ├── departments.csv
+│   │   ├── hr_candidates.csv
+│   │   ├── job_roles.csv
+│   │   ├── onboarding_tasks.csv
+│   │   ├── system_logs.csv
+│   │   ├── incidents.csv
+│   │   └── service_health.csv
+│   │
+│   └── synthetic/
+│       ├── generate_all_data.py
+│       
+│      
+│      
+│
+├── app/
+│   │
+│   ├── main.py
+│   │
+│   ├── pages/
+│   │   ├── executive_dashboard.py
+│   │   ├── customer_operations.py
+│   │   ├── hr_automation.py
+│   │   └── devsecops_monitoring.py
+│   │
+│   ├── chatbot/
+│   │   ├── chat_interface.py
+│   │   ├── chatbot_agent.py
+│   │   ├── intent_classifier.py
+│   │   ├── sentiment_analyzer.py
+│   │   ├── entity_extractor.py
+│   │   ├── response_generator.py
+│   │   ├── ticket_router.py
+│   │   ├── escalation_engine.py
+│   │   └── chatbot_memory.py
+│   │
+│   ├── customer_ops/
+│   │   ├── sla_service.py
+│   │   ├── dispute_service.py
+│   │   └── customer_metrics.py
+│   │
+│   ├── hr/
+│   │   ├── jd_generator.py
+│   │   ├── cv_ranker.py
+│   │   ├── onboarding_tracker.py
+│   │   └── hr_metrics.py
+│   │
+│   ├── devsecops/
+│   │   ├── log_generator.py
+│   │   ├── log_analyzer.py
+│   │   ├── incident_summarizer.py
+│   │   ├── alert_engine.py
+│   │   └── devsecops_metrics.py
+│   │
+│   ├── components/
+│   │   ├── ui_components
+│   │
+│   └── utils/
+│       ├── data_loader.py
+│
+├── knowledge_base/
+│   ├── faq.md
+│   ├── failed_transactions.md
+│   ├── kyc_help.md
+│   ├── onboarding_help.md
+│   ├── card_issues.md
+│   └── dispute_resolution.md
+│
+├── reports/
+│   ├── generated/
+│   └── report_generator.py
+│
+└── docs/
+    ├── architecture.md
+    ├── demo-flow.md
+    ├── dashboard-kpis.md
+    └── roadmap.md

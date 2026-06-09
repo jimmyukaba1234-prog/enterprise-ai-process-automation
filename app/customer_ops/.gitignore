@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.streamlit/secrets.toml
+
+data/vector_store/*.pkl
+data/vector_store/*.faiss
+
+*.log

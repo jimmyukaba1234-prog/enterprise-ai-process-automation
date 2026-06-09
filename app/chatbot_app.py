@@ -1,6 +1,12 @@
 import streamlit as st
 from dataclasses import asdict
 
+import sys
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT_DIR))
+
 from app.chatbot.agent import process_customer_message
 from app.chatbot.conversation_manager import create_session
 
